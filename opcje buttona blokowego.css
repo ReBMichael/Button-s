@@ -1,0 +1,10 @@
+.block {
+	display: block; // wyswietla to jedno pod drugim a inline to w jednej linii trudno mi to opisać
+	width: 100%; // to da na full strony polecam zmienić
+	border: none; // obramówka
+	background-color: #ffffff; //kolor
+	padding: 14px 28px; // dodatkowe miejsce
+	font-size: 16px; //rozmiar fontu
+	cursor: pointer; // właściwości kursora czyli zmienia wygląd kursora gdy najedziemy na obiekt
+	text-align: center; //równanie tekstu
+}
