@@ -1,0 +1,5 @@
+    <a href="Podstrona"> // gdyby było potrzebne na przeniesienie na inną podstroną
+        <buttonX type="button" class="block"> // X to liczba np 1,2...
+            <img src="unknown.png" height="" width="" /> //height i width to do rozmiaru (niewymagane)
+        </button1>
+    </a>
